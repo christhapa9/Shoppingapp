@@ -7,7 +7,7 @@
     tools:context=".MainActivity"
     android:orientation="vertical"
     android:padding="16dp"
-    android:background="#6E607C">
+    android:background="@drawable/background">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"

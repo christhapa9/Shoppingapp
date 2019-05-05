@@ -7,7 +7,7 @@
     tools:context=".Description"
     android:orientation="vertical"
     android:padding="16dp"
-    android:background="#6E607C">
+    android:background="@drawable/background">
 
     <TextView
         android:layout_width="match_parent"
